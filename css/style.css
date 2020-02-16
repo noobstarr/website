@@ -1,0 +1,65 @@
+a:visited {
+	color:#000000;
+}
+
+a:link {
+	color:#000000;
+}
+
+a:hover {
+	color:#ff0000;
+}
+
+footer {
+	display:block;
+	margin:0 auto;
+	width:918px;
+	color:#ffffff;
+}
+
+body {
+	background-color: #000000;
+}
+
+.panel {
+	float:left;	
+	padding:20px 80px 20px 40px;
+	margin-left:12px;
+	border:2px solid #7b4f17;
+	color:#000000;
+}
+
+.links {
+	display:inline;
+	list-style-type: none;
+	padding:0px 20px 0px 20px;
+	
+}
+
+.linkList {
+	margin-left:250px;
+	display:block;
+}
+
+.about {
+	padding:0px 20px 0px 20px;
+}
+
+#mainBox {
+	float:left;
+	width:550px;
+	height:520px;
+	margin-top:60px;
+	margin-left:60px;
+	padding:0px 10px 0px 10px;
+	border:2px solid #7b4f17;
+}
+
+#wrapper {
+	display:block;
+	margin:0 auto;
+	width:918px;
+	padding:0px 0px 600px 0px;
+	border:2px solid #7b4f17;
+	background-color: #A28A5D;
+}
