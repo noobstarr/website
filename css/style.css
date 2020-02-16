@@ -83,8 +83,12 @@ body {
 
 #mainBox {
 	float:right;
-	width:50%;
-	margin-right:60px;
+	width:60%;
+	margin-right:100px;
+}
+
+#space {
+	margin-bottom:350px;
 }
 
 #wrapper {
