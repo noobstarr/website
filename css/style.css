@@ -28,11 +28,11 @@ body {
 }
 
 a:visited {
-	color:#000000;
+	color:#380000;
 }
 
 a:link {
-	color:#000000;
+	color:#380000;
 }
 
 a:hover {
@@ -50,7 +50,6 @@ a:hover {
 	padding:10px 0px 10px 40px;
 	margin-left:20px;
 	border:2px solid #7b4f17;
-	color:#000000;
 }
 
 .panel2 {
@@ -60,7 +59,6 @@ a:hover {
 	margin-left:20px;
 	margin-top:30px;
 	border:2px solid #7b4f17;
-	color:#000000;
 }
 
 .links {
@@ -85,8 +83,8 @@ a:hover {
     box-shadow: #e6962e 0px 0px 40px 0px;
     text-shadow: #3c270c 1px 1px 1px;
     font: normal normal normal 20px arial;
-    color: #000000;
     text-decoration: none;
+	color:#380000;
 }
 .button:hover,
 .button:focus {
@@ -95,8 +93,8 @@ a:hover {
     background: -webkit-gradient(linear, left top, left bottom, from(#e6962e), to(#7a4f18));
     background: -moz-linear-gradient(top, #e6962e, #7a4f18);
     background: linear-gradient(to bottom, #e6962e, #7a4f18);
-    color: #000000;
     text-decoration: none;
+	color:#380000;
 }
 .button:active {
     background: #664214;
